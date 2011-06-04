@@ -1,7 +1,7 @@
 .classpath
 .settings
 .project
-target
+target/
 test-output/
 *.ipr
 *.iml
