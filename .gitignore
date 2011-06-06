@@ -10,4 +10,6 @@ test-output/
 deploy
 deploy.zip
 *.log
+.idea
+*.idea/
 
