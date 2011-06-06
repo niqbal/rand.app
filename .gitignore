@@ -11,5 +11,5 @@ deploy
 deploy.zip
 *.log
 .idea
-*.idea/
+*.idea/*
 
